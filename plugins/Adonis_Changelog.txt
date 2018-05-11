@@ -1,0 +1,66 @@
+				xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+				xxxxxxxx ADONIS Changelog xxxxxxxx
+				xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+***************************************************************
+
+09-10-2007: First release v1.0
+
+***************************************************************
+
+09-21-2007: minor update v1.0.1
+
+	- Modulation wheel was assigned by default on Voice 1
+	  Wave D fine tune (stupid!). FIXED. Now have CC #29.
+
+	- Adding Keyboard velocity On / Off switch for each Voice.
+
+***************************************************************
+
+10-25-2007: update to 1.1
+
+	- New chorus engine: sound clean now (no "crackly").
+
+***************************************************************
+
+10-30-2007: update to 1.2
+
+	- update GUI envelopes.
+
+***************************************************************
+
+11-19-2007: update to 1.3
+
+	- Fixed all CC#
+
+***************************************************************
+
+01-17-2008: update to 1.3.1
+
+	- GUI envelopes cause host-crash when adding stage(s). - Fixed
+
+***************************************************************
+
+09-08-2008: update to 1.3.2
+
+	- Fixed LFO delay
+
+**********************************************************************
+
+09-09-2008: update to 1.3.3
+
+	- Fixed LFO delay again
+
+
+
+
+
+
+
+
+
+
+
+
+
